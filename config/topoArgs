@@ -1,0 +1,18 @@
+# This file contains all parameters for running a Storm Topology
+
+#numWorkers=15
+#numAckers=0
+
+#paraSpout=10
+#paraBolt1=20
+#paraBolt2=20
+#paraBolt3=1
+
+#transPeriod=10000
+#printPeriod=30000
+#archivePeriod = 60000
+
+#isVaring = false
+#varingPeriod = 180000
+
+#streamInterval = 10
